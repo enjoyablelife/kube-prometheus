@@ -1,0 +1,1 @@
+FROM redis_exporter:v1.55.0-alpine
